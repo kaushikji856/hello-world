@@ -1,2 +1,3 @@
-# hello-world
-Hello world docker
+# maven-project
+
+Simple Maven Project
